@@ -1,0 +1,16 @@
+main{
+    min-height: 90vh;
+    display: grid;
+    place-items: center;
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+button{
+    font-size: 20px;
+    /* width: 75px; */
+    border-radius: 10px;
+}
